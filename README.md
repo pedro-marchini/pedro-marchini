@@ -8,15 +8,26 @@
 </div>
 <br>
 <div align="center" style="display: inline_block">
-    <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
-    <code><img height="20" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Ahtml">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+    </a>
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Acss">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+    </a>
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Ajavascript">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+    </a>
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Aangular">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
+    </a>
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Acsharp">
+        <code><img height="20" src="https://seeklogo.com/images/C/c-logo-A44DB3D53C-seeklogo.com.png"></code>
+    </a>
+    <a href="https://github.com/pedro-marchini">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+    </a>
 </div>
-<br />
-</div>
+<br/>
 <p align="center">
     <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>

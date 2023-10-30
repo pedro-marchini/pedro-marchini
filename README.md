@@ -1,11 +1,10 @@
 [![TypingSVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&width=480&lines=Hi!+I'm+Pedro+de+Almeida+Marchini+%F0%9F%91%8B;I'm+a+Intern+FullStack+Developer+%F0%9F%92%80%F0%9F%A6%86;I'm+working+with+Angular+and+Dotnet+%F0%9F%8D%B7%F0%9F%97%BF;%F0%9F%A7%AA+I'm+a+Computer+Scientist+Student+%F0%9F%92%A4)](https://git.io/typing-svg)
 
 <div align="center">
-    <img width=390
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pedro-marchini&theme=dracula&border=61dafb&hide_border=true"
-        alt="stats" />
-    <img width=370
-        src="https://github-readme-stats.vercel.app/api?username=pedro-marchini&show_icons=true&theme=dracula&border_color=61dafb&hide_border=true" />
+    <a href="https://github-readme-streak-stats.herokuapp.com?user=pedro-marchini&theme=tokyonight&card_width=390">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=pedro-marchini&theme=tokyonight&card_width=390" alt="GitHub Streak"/>
+    </a>
+    <img width=370 src="https://github-readme-stats.vercel.app/api?username=pedro-marchini&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true"/>
 </div>
 <br>
 <div align="center" style="display: inline_block">

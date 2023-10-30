@@ -17,7 +17,10 @@
     <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Ajavascript">
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     </a>
-    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Aangular">
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Atypescript">
+        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/typescript/typescript.png"></code>
+    </a>
+    <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Atypescript">
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/angular/angular.png"></code>
     </a>
     <a href="https://github.com/search?&q=user%3Apedro-marchini+language%3Acsharp">
